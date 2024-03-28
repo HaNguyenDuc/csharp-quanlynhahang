@@ -1,0 +1,50 @@
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.SuggestedBindingRedirects.cache
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Main.resources
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.BanAn.resources
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.MonAn.resources
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ThemMonAn.resources
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.DatBan.resources
+D:\linhtinh\linhtinh\codeThue\Winform6\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ThongKe.resources
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.BanAn.resources
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.DatBan.resources
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Main.resources
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.MonAn.resources
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ThemMonAn.resources
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ThongKe.resources
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\USER\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.BanAn.resources
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.DatBan.resources
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Main.resources
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.MonAn.resources
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ThemMonAn.resources
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ThongKe.resources
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\USER\OneDrive\Documents\Do An\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
